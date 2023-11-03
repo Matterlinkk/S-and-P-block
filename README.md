@@ -1,4 +1,4 @@
-# S-and-P-block
+# S-and-P-box
 ## Description of functionality
 <ol>
   <li>sboxencrypt/sboxdecrypt refer to s-box encryption algorithm, forward and reverse text transformation algorithms.</li>
